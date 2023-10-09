@@ -1,0 +1,99 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.background-image {
+    background-image: url('image/two-aces-playing-cards-chips-green-poker-table.jpg'); /* Update with your image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    text-align: center;
+    font-weight: bold;
+    color: white; /* Adjust text color for visibility */
+    
+   
+}
+
+h1 {
+    color: rgb(195, 117, 21);
+}
+
+p {
+    color: white
+}
+
+button {
+    background-color: goldenrod;
+    color: black; /* Adjust text color for visibility */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+
+    border-style: solid;
+
+    border-color: black;
+}
+
+button:hover {
+    background-color: rgb(235, 235, 111);
+}
+
+.content #card{
+
+    border-style: solid;
+
+   background-color: cadetblue;
+
+   border-color: black;
+
+    
+
+}
+
+
+.content #message-el{
+
+    border-style: solid;
+
+   background-color: cadetblue;
+
+   border-color: black;
+
+}
+
+    
+
+   
+   
+.content #sum{
+
+    border-style: solid;
+
+   background-color: cadetblue;
+
+   border-color: black;
+
+    
+
+}
+
+p{
+
+    color: rgb(1, 1, 1);
+
+    background-color: antiquewhite;
+    
+    text-decoration: solid;
+
+    
+
+}
